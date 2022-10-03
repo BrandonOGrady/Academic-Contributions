@@ -8,4 +8,4 @@ A list of all projects, papers and grants I have worked on as a Biostatistician 
     + Co-author that was a Data Analyst that used linear mixed models with inverse probability weights to evaluated the association between pain and cognitive decline.
     + Data: 2001-2018 from the Mexican Health and Aging Study
     + Pending on the American Journal of Epidemiology
-3. UTMB: 
+3. UTMB: 3 more projects pending and waiting for submission.
