@@ -11,7 +11,7 @@ A list of all projects, papers and grants I have worked on as a Biostatistician 
 3.Geographic Trends in U.S. CVD Mortality: Widespread Stagnation and Growing County- and State-Level Disparities
     + Co-author that was a Data Analyst that analyzed the Age-Standardized cardiovascular disease (CVD) Mortality rates.
     + Collected data from the Centers for Disease Control Wonder and The National Vital Statistics (State and County-Level).
-    + Created a Age-standardized CVD maortality per 100,000 persons table and multiple figures on the annual change in State-Level by Groups (Sex, Education, Median Income, Rural, and 5-year Age Groups).
+    + Created a Age-standardized CVD maortality per 100,000 persons table and multiple figures on the annual change in State-Level by Groups (Sex, Education, Median  Income, Rural, and 5-year Age Groups).
 4. UTMB (Fact Sheet- Covid)
     + Created a two-page fact sheet about Covid and how it has effected citizens of Mexico.
     + Compared the Covid Situation in Mexico vs. Around the World using references online. 
