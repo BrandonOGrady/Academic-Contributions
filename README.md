@@ -17,4 +17,4 @@ A list of all projects, papers and grants I have worked on as a Biostatistician 
     + Compared the Covid Situation in Mexico vs. Around the World using references online. 
     + Implemented a McNemar's test a supported that our sample was more likely to be depressed and less likely to be lonely during the pandemic. 
     + Created graphs from results.
-5. UTMB: 2 more projects pending and waiting for submission.
+5. UTMB: 2 more projects pending and waiting for submission
